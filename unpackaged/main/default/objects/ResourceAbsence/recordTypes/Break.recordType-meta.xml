@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Break</fullName>
+    <active>true</active>
+    <label>Break</label>
+    <picklistValues>
+        <picklist>Type</picklist>
+        <values>
+            <fullName>concert</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>festival</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>jury duty</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>personal development</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>trash pickup</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>
