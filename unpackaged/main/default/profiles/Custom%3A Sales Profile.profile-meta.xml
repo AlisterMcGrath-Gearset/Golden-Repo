@@ -3224,6 +3224,9 @@
         <layout>Knowledge__kav-Knowledge Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>LaceworkPOC__c-LaceworkPOC Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Lead-Lead %28Sales%29 Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
