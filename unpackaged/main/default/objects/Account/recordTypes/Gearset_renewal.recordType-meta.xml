@@ -56,6 +56,14 @@
     <picklistValues>
         <picklist>Industry</picklist>
         <values>
+            <fullName>Agriculture</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Apparel</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Banking</fullName>
             <default>false</default>
         </values>
@@ -136,6 +144,10 @@
             <default>false</default>
         </values>
         <values>
+            <fullName>Media</fullName>
+            <default>false</default>
+        </values>
+        <values>
             <fullName>Not For Profit</fullName>
             <default>false</default>
         </values>
@@ -188,25 +200,6 @@
         </values>
         <values>
             <fullName>Subsidiary</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>PicklistField__c</picklist>
-        <values>
-            <fullName>four</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>one</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>three</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>two</fullName>
             <default>false</default>
         </values>
     </picklistValues>

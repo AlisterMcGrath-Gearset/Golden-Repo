@@ -21,29 +21,4 @@
         <default>false</default>
         <label>Medical</label>
     </standardValue>
-    <standardValue>
-        <fullName>personal development</fullName>
-        <default>false</default>
-        <label>personal development</label>
-    </standardValue>
-    <standardValue>
-        <fullName>trash pickup</fullName>
-        <default>false</default>
-        <label>trash pickup</label>
-    </standardValue>
-    <standardValue>
-        <fullName>jury duty</fullName>
-        <default>false</default>
-        <label>jury duty</label>
-    </standardValue>
-    <standardValue>
-        <fullName>concert</fullName>
-        <default>false</default>
-        <label>concert</label>
-    </standardValue>
-    <standardValue>
-        <fullName>festival</fullName>
-        <default>false</default>
-        <label>festival</label>
-    </standardValue>
 </StandardValueSet>
